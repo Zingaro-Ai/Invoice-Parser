@@ -1,0 +1,5 @@
+pdf2image
+openai
+pydantic
+gradio
+python-dotenv
